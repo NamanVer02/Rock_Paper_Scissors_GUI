@@ -1,4 +1,4 @@
-# Rock_Paper_Scissors_GUI
+# Stone Paper Scissors 
 A simple rock paper scissors game to practice tkinter and make a simple GUI using the package.
 This game requires and internet connection in order to play, since it uses some images from the internet.
 Thank you for trying out the game if you did. It was a fun little project to learn about the GUI elements in tkinter.
